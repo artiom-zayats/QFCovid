@@ -32,4 +32,4 @@ python3 covid.py
 
 *Note: I'm sure there are dependencies that need to be installed, but this was for my personal use and just to get the code out there, so figure it out and submit a patch*
 
-*Note: QFC's site is sensitive to what is visible on the screen in some instances, so there are a lot of sleeps. Also, depending on the resolution of the monitor of the machine that this is running on, you might need to make the browser window larger.
+*Note: QFC's site is sensitive to what is visible on the screen in some instances, so there are a lot of sleeps. Also, depending on the resolution of the monitor of the machine that this is running on, you might need to make the browser window larger.*
